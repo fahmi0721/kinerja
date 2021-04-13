@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
+.DS_Store
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Files/Kontrak/*
+# Files/NotaDinas/*
+# Files/SuratKeluar/*
+# Files/SuratMasuk/*
+# config/koneksi.php
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/

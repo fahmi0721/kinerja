@@ -1,0 +1,20 @@
+.title.title-form::before {
+    border-color: #ecf0f1 #ecf0f1 #161616 #161616;
+}
+.title::before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    border-width: 0 16px 16px 0;
+    border-style: solid;
+    border-color: transparent transparent transparent transparent;
+}
+.title{
+	background: #2a2a2a;
+	padding: 8px 15px 8px 15px;
+	color: #fff;
+}
+.radio label.custom-radio{
+    padding-left: 5px;
+}
